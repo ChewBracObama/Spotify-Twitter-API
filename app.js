@@ -1,6 +1,6 @@
 //NB node_modules must be reinstalled beforehand
 //Start script has been created with npm start
-//Update the .env file with all spotify and twitter API details. Twitter elevated access is required
+//Add a .env file with all spotify and twitter API details. Twitter elevated access is required
 const SpotifyWebApi = require('spotify-web-api-node')//used npm install Spotify-Web-Api-Node
 const readline = require("readline") //allows us to get user input from console
 const Twitter = require("twitter") //Used npm i twitter for the api
